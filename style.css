@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main_page{
+    background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+}
+
+.title{
+    text-align: center;
+   
+}
+
+.title h1{
+    font-size:80px;
+    padding:10px;
+    background: #EEAECA;
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+}
+.login_page{
+    background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+}
+.reg_page{
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+}
+.form{
+    color: white;
+}
